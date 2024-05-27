@@ -1,13 +1,13 @@
-### Powered By @BikashHalder & @AdityaHalder 
+### Powered By @OLIVIAxCHEATS 
 
-### Join @BikashGadgetsTech For More Update
+### Join @ABOUTUROLIVIA For More Update
 
-### Join @AdityaCheats For Hack
+### Join @OLIVIAxCHEATS For Hack
 
-### Join Our Chats @Bgt_Chat & @Adityadiscus 
+### Join Our Chats @OLIVIAxFAM
 
 
-### Powered By [@BikashHalder](https://t.me/Bikashhalder)
+### Powered By [@XD_OLIVIA](https://t.me/Xd_olivia)
 
 
 ### ABOUT THIS BOT
@@ -85,4 +85,4 @@ python3 -m modules
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 
-## 🥀 Powered By [BikashHalder](https://t.me/Bikashhalder) & [AdityaHalder](https://t.me/Adityahalder)
+## 🥀 Powered By (https://t.me/XD_OLIVIA) [XD_OLIVIA]
